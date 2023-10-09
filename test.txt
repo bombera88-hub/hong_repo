@@ -1,5 +1,0 @@
-test
-
-more message
-
-one more
